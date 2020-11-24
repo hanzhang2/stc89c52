@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/share/sdcc/include/mcs51"
+            ],
+            "defines": [
+                "IDE_VSCODE",
+                "UNICODE",
+                "_DEBUG",
+                "code",
+                "__interrupt=/code/"
+            ],
+            "cStandard": "c89"
+        }
+    ],
+    "version": 4
+}

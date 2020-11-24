@@ -1,0 +1,11 @@
+{
+    //"files.encoding":"gb2312",
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "*.c": "cpp",
+        "STDIO.H": "cpp",
+        "stdio.h": "cpp",
+        "STC89C5xRC.H": "cpp",
+        "STDARG.H": "cpp"
+    }
+}
